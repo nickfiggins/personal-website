@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Nick Figgins",
+    "occupation":"Software Engineer",
+    "description":"Currently, I'm looking for full-time opportunities starting after my graduation in May 2021",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Please fill out the form below, or directly email me at nef7xb@virginia.edu.",
+    "email": "nef7xb@virginia.edu",
+    "phone": "540-409-8872",
+    "address":{
+      "street":"113 Butternut Dr",
+      "city":"Stephens City",
+      "state":"VA",
+      "zip": "22655"
+    },
+    "website": "http://www.nickfiggins.github.io",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nicholas-figgins/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/nickfiggins",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"buy a coffee",
+        "url" : "https://www.buymeacoffee.com/nickfiggins",
+        "className": "fa fa-coffee"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Virginia",
+        "degree":"B.A. in Computer Science; B.A. in Mathematics",
+        "graduated":"May 2021",
+        "description":"GPA: 3.61; Dean's List Recipient"
+      },
+      {
+        "school":"Sherando High School",
+        "degree":"Honors Diploma",
+        "graduated":"May 2017",
+        "description":"I also received my General Certificate from Lord Fairfax Community College for the completion of 30 college credits while in high-school (I completed 61 total)."
+      }
+    ],
+    "work":[
+      {
+        "company":"Cress Health",
+        "title":"Software Engineer Intern",
+        "years":"May 2020 - Present",
+        "description":"I'm working as a back-end engineer for the Callie mobile app and its microservice architecture (Node.js)."
+      },
+      {
+        "company":"KidzToPros",
+        "title":"Coding Instructor",
+        "years":"May 2020 - Present",
+        "description":"I'm teaching courses to students K-12 on various programming languages and concepts, including Java, boolean logic, and game design with Lua (C++ scripting language)."
+      },
+      {
+        "company":"University of Virginia - Security Operations Center",
+        "title":"Information Security Intern",
+        "years":"August 2019 - March 2020",
+        "description":""
+      },
+      {
+        "company":"WNRN Radio",
+        "title":"Web Development Intern",
+        "years":"October 2018 - May 2019",
+        "description":""
+      }
+
+
+    ],
+    "skills":[
+      {
+        "name":"Languages",
+        "level": "Python, Java, JavaScript, HTML/CSS, C++, C, x86 Assembly"
+      },
+      {
+        "name":"Frameworks/Libraries",
+        "level":"Flask, Django, React.js, Sci-kit Learn, Tensorflow"
+      },
+      {
+        "name":"Technologies",
+        "level":"SQL, Google Cloud Platform, Splunk, ServiceNow"
+      },
+      {
+        "name":"Certifications",
+        "level":"JP Morgan Virtual Experience, Google Digital Garage (both on LinkedIn)"
+      }
+    ],
+    "research": [
+      {
+        "dates":"May 2020 - Present",
+        "subject": "Adversarial Machine Learning Malware Classification",
+        "title" : "Undergraduate Researcher",
+        "description": "I'm currently researching defenses to evasive attacks towards Windows malware classifiers. In particular, I'm looking into defenses against the easily perturbed headers of PE files, which has been the focus of recent attack algorithms."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Doctor-Patient Real-time Translator",
+        "category":"Voice translator for doctors/patients and PDF generator for translated doctor's orders. Tech: Angular",
+        "image":"healthhacks2.jpg",
+        "url":"https://github.com/nickfiggins/HealthHacks"
+      },
+      {
+        "title":"Tuber",
+        "category":"(site down) Tech: Django; Role: Developer, Testing Manager",
+        "image":"tuber2.png",
+        "url":"https://uva3240quicktutor.herokuapp.com/"
+      },
+      {
+        "title":"QR Cars",
+        "category":"QR Code generator/app for car lot. Tech: Python, PHP, SQL",
+        "image":"ramhacks2.jpg",
+        "url":"https://github.com/nickfiggins/ramhacks"
+      },
+      {
+        "title":"Proof of Alternating Harmonic Series",
+        "category":"My construction of a proof of the alternating harmonic series.",
+        "image":"harmonic2.png",
+        "url":"https://github.com/nickfiggins/alternating_harmonic_series"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
