@@ -3,8 +3,8 @@
     "name":"Nick Figgins",
     "occupation":"Software Engineer",
     "description":"Currently, I'm looking for full-time opportunities starting after my graduation in May 2021",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "image":"profilepic2.jpg",
+    "bio":"I'm currently going into my final year as an undergraduate at the University of Virginia. After graduating, I will be pursuing a career in cybersecurity, machine learning, or web development. Outisde of technology, I enjoy travelling, PC games, music, making music, and football.",
     "contactmessage":"Please fill out the form below, or directly email me at nef7xb@virginia.edu.",
     "email": "nef7xb@virginia.edu",
     "phone": "540-409-8872",
@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Through working with both machine learning libraries and web development frameworks (Flask, DJango), I've gained strong experience working with Python. I've also gained experience working with C++, C, and x86 Assembly through coursework. Throughout this past summer, I've been working on learning React.js and further improving my JavaScript skills in doing so. This website (and another one coming soon) were created with React.",
     "education":[
       {
         "school":"University of Virginia",
