@@ -9,10 +9,10 @@
     "email": "nef7xb@virginia.edu",
     "phone": "540-409-8872",
     "address":{
-      "street":"113 Butternut Dr",
-      "city":"Stephens City",
+      "street":"",
+      "city":"Charlottesville",
       "state":"VA",
-      "zip": "22655"
+      "zip": "22903"
     },
     "website": "http://www.nickfiggins.github.io",
     "resumedownload":"resume.pdf",
@@ -54,14 +54,14 @@
       {
         "company":"Cress Health",
         "title":"Software Engineer Intern",
-        "years":"May 2020 - Present",
-        "description":"I'm working as a back-end engineer for the Callie mobile app and its microservice architecture (Node.js)."
+        "years":"May 2020 - August 2020",
+        "description":"I worked as a back-end engineer for the Callie mobile app and the brand representative web portal."
       },
       {
         "company":"KidzToPros",
         "title":"Coding Instructor",
-        "years":"May 2020 - Present",
-        "description":"I'm teaching courses to students K-12 on various programming languages and concepts, including Java, boolean logic, and game design with Lua (C++ scripting language)."
+        "years":"May 2020 - August 2020",
+        "description":"I taught courses to K-12 students on various programming languages and concepts, including Java/OOP, boolean logic, and game design with Lua (C++ scripting language)."
       },
       {
         "company":"University of Virginia - Security Operations Center",
