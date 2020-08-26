@@ -4,7 +4,7 @@
     "occupation":"Software Engineer",
     "description":"Currently, I'm looking for full-time opportunities starting after my graduation in May 2021",
     "image":"profilepic2.jpg",
-    "bio":"I'm currently going into my final year as an undergraduate at the University of Virginia. After graduating, I will be pursuing a career in cybersecurity, machine learning, or web development. Outisde of technology, I enjoy travelling, PC games, music, making music, and football.",
+    "bio":"I'm currently going into my final year as an undergraduate at the University of Virginia. After graduating, I will be pursuing a career in software engineering or cybersecurity. Outisde of technology, I enjoy travelling, listening to music, making music, and football.",
     "contactmessage":"Please fill out the form below, or directly email me at nef7xb@virginia.edu.",
     "email": "nef7xb@virginia.edu",
     "phone": "540-409-8872",
@@ -81,7 +81,7 @@
     "skills":[
       {
         "name":"Languages",
-        "level": "Python, Java, JavaScript, HTML/CSS, C++, C, x86 Assembly"
+        "level": "Python, Java, JavaScript, HTML/CSS, C++, x86 Assembly"
       },
       {
         "name":"Frameworks/Libraries",
