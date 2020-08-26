@@ -81,7 +81,7 @@
     "skills":[
       {
         "name":"Languages",
-        "level": "Python, Java, JavaScript, HTML/CSS, C++, x86 Assembly"
+        "level": "Python, Java, JavaScript, HTML/CSS, C++, SQL"
       },
       {
         "name":"Frameworks/Libraries",
@@ -89,7 +89,7 @@
       },
       {
         "name":"Technologies",
-        "level":"SQL, Google Cloud Platform, Splunk, ServiceNow"
+        "level":"Splunk, ServiceNow, Heroku"
       },
       {
         "name":"Certifications",
