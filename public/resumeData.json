@@ -108,6 +108,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Spotipie",
+        "category":"Spotify music dashboard to present graphs and recommendations for a user's listening history.",
+        "image":"spotipie2.png",
+        "url":"http://www.spotipie.com"
+      },
+      {
         "title":"Doctor-Patient Real-time Translator",
         "category":"Voice translator for doctors/patients and PDF generator for translated doctor's orders. Tech: Angular",
         "image":"healthhacks2.jpg",
